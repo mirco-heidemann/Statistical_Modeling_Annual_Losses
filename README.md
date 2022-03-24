@@ -1,2 +1,2 @@
-# Statistical_Modeling_Annual_Losses-
+# Statistical_Modeling_Annual_Losses
 Statistical modeling of GVZ's annual losses for solvency analyses. For flood, winter storm, and hail hazards separately. Lognormal distribution for the body, a Generalized Pareto Distribution for the tail, when exceedence over the 95 % quantile (5 % of the claims make up 50 % of the total amount of the losses). Monte Carlo simulation for generating 10'000 years. Combine the three annual loss distributions per peril with Copula - to connect multivariate distribution with correlations - to simulate total annual losses.
